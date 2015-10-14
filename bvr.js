@@ -40,7 +40,7 @@ define([], function () {
             }
 
             // Return the validation key for a mod-10
-            return 10-report;
+            return (report !== 0)? 10-report : 0;
         }
     };
 
