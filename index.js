@@ -1,7 +1,7 @@
 /*jslint browser: true, white: true */
 /*global define, require */
 
-define([], function () {
+module.exports = function () {
 
     // Table from https://www.credit-suisse.com/media/production/pb/docs/unternehmen/kmugrossunternehmen/besr_technische_dokumentation_fr.pdf
     var table = [
@@ -45,4 +45,4 @@ define([], function () {
     };
 
     return bvr;
-});
+};
