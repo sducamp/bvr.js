@@ -1,0 +1,23 @@
+{
+  "name": "bvr-js",
+  "version": "1.0.1",
+  "description": "Generate a valide bvr number in Javascript",
+  "main": "bvr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sducamp/bvr.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "bvr"
+  ],
+  "author": "sducamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sducamp/bvr.js/issues"
+  },
+  "homepage": "https://github.com/sducamp/bvr.js#readme"
+}
